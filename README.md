@@ -31,9 +31,9 @@ The ideal solution is a tiny setup with an integrated computer, camera and, if n
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 (![Second hand photo setup](Second_hand_photo_setup.jpg))
+(![Second_hand_photo_studio_bw](Second_hand_photo_studio_bw.jpg))
+(![Second_hand_photo_studio_bw](Second_hand_photo_studio_bw.jpg))
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
