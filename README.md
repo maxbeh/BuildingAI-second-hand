@@ -32,37 +32,11 @@ Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 (![Second hand photo setup](Second_hand_photo_setup.jpg))
 (![Second_hand_photo_studio_bw](Second_hand_photo_studio_bw.jpg))
-(![Second_hand_photo_studio_bw](Second_hand_photo_studio_bw.jpg))
-
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+(![second_hand_photo_raspberry_pi](second_hand_photo_raspberry_pi.jpg))
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Object recognition. Computer vision.
 
 ## Challenges
 
@@ -75,8 +49,6 @@ How could your project grow and become something even more? What kind of skills,
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+https://www.flickr.com/photos/120586634@N05/14675164282 "Raspberry Pi Camera Module - Fitted" by ghalfacree is licensed under CC BY-SA 2.0
+https://www.flickr.com/photos/54923839@N00/9045741368 "Photography studio" by Dubber is licensed under CC BY-NC-SA 2.0
+https://www.flickr.com/photos/25305877@N00/9407153677 "Photography studio snapshot by one of our curators. It is Quaker asylum reformer Dorothea Dix’s St. Elizabeth's Hospital desk from 1887." by national museum of american history is licensed under CC BY-NC 2.0
