@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-An data base with up to date iformation about the inventory of all second hand stores that wishes to participate. Automated uploads of new items and removal of sold ones 
+A data base with up to date information about the inventory of all second hand stores that wishes to participate. Automated uploads of new items and removal of sold ones 
 with an AI based object recognition program for smart phones or perhaps an raspberry pi based camera and set up for easy streamlined photos with plain background. Program detects what kind of item and proposes a price determined by similar items. User can easily change and add description before a one click upload with necessary information like at what store the item is located, what it costs, what condition it is in and when it was uploaded. The set up then prints a QR code that will automatically remove the item from the database when scanned at check out.
 
 
