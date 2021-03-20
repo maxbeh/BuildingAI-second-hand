@@ -28,6 +28,8 @@ List of challenges
 
 The ideal solution is a tiny setup with an integrated computer, camera and, if neccesary, lighting. This in combination with a simple white background, a hanger for clothes and some sort of table to place smaller objects would serve as a form of automated photo booth. The store personal could conveniently just place the item in the setup, a photo would be taken and price, condition, size and other information would be proposed and easily confirmed before the upload to the database. At best it would take no longer than a few seconds more than just unpacking and inspecting the items like normal before putting them up for sale. The QR code would either be printed for each item or there could be reusable "QR-tags" that would be scanned and linked to the item in question.
 
+## Photos for inspiration
+
 ![Second hand photo setup](Second_hand_photo_setup.jpg)
 ![Second_hand_photo_studio_bw](Second_hand_photo_studio_bw.jpg)
 ![second_hand_photo_raspberry_pi](second_hand_photo_raspberry_pi.jpg)
